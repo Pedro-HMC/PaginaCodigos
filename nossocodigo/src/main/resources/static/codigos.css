@@ -1,0 +1,66 @@
+.bar {
+    background-color: #6F4A8E;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-family: 'Orbitron';
+    width: 100%;
+    margin: 0em;
+}
+
+.tag {
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+.voltar {
+    margin-top: 10px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+    color: white;
+    font-size: 20px;
+}
+
+.titulo {
+    padding: 0em;
+    margin-top: 2em;
+    background-color: #D3BEE4;
+    text-align: center;
+}
+
+.newcode {
+    margin-top: 2em;
+    font-size: 20px;
+}
+
+.block {
+    display: block;
+}
+
+div {
+    word-wrap: break-word;
+}
+
+pre {
+    text-align: justify;
+    height: 600px;
+}
+
+.code {
+    height: 50px;
+}
+
+.codebox {
+    border-style: solid;
+    border-color: #D3BEE4;
+    background-color: white;
+}
+
+input[type=text],
+textarea {
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #D3BEE4;
+}
